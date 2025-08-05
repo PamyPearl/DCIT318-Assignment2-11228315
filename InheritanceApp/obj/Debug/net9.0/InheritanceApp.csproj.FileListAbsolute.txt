@@ -1,0 +1,14 @@
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\bin\Debug\net9.0\InheritanceApp.exe
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\bin\Debug\net9.0\InheritanceApp.deps.json
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\bin\Debug\net9.0\InheritanceApp.runtimeconfig.json
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\bin\Debug\net9.0\InheritanceApp.dll
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\bin\Debug\net9.0\InheritanceApp.pdb
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.AssemblyInfoInputs.cache
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.AssemblyInfo.cs
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.dll
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\refint\InheritanceApp.dll
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.pdb
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\InheritanceApp.genruntimeconfig.cache
+C:\Users\Anyone\DCIT318-Assignment2-11228315\InheritanceApp\obj\Debug\net9.0\ref\InheritanceApp.dll
